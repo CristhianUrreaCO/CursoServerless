@@ -1,6 +1,16 @@
 {
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "aws-sdk": "^2.1692.0",
+    "serverless": "^3.21.0",
     "serverless-offline": "^14.4.0"
   },
   "dependencies": {
